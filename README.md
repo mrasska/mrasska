@@ -1,6 +1,6 @@
 ### Hi there, I'm Maria ! 👋
 
-- 🔭 I’m currently working as HR junior data analyst.
+- 🔭 I’m currently working as HR junior data analyst at Deloitte Luxembourg.
 - 🌱 I’m currently learning Python, SQL. 
 - 🤔 I’m looking for help with python.
 - 💬 Ask me about digital economics and gaming industry.
