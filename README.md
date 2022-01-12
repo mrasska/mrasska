@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a PhD Student in Economics @ Labex ICCA & CEPN (Paris 13).
 - 🌱 I’m currently learning Python, SQL. 
-- 💬 Ask me about digital economics and gaming industry.
+- 💬 Ask me about digital economics (platforms) and gaming industry.
 - 🎮 I'm taking part in Indie Collective's project : promoting independant video game in Brittany, France.
 - 📫 How to reach me: @drunkmoriarty on twitter 🦉
 - 😄 Pronouns: She/Her
