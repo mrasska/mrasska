@@ -1,6 +1,6 @@
 ### Hi, I'm Maria! 👋
 
-- 🔭 I’m a PhD Candidate in Digital Economics at [ACT](https://act.univ-spn.fr/) and [inIdEx ICCA](https://icca.univ-paris13.fr/) of University Sorbonne Paris Nord.
+- 🔭 I’m a researcher in Digital Economics at [ACT](https://act.univ-spn.fr/) and [inIdEx ICCA](https://icca.univ-paris13.fr/) of University Sorbonne Paris Nord. I defended my doctoral dissertation in Economics in February 2026. 
 - 👀 My research interests are in digital economy (platforms), media economics (content production, advertising), creators' economy.
 - 🌱 My technical skills: Python, R and SQL for data analysis. Tableau and PowerPoint for data presentation.
 
