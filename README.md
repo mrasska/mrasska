@@ -4,9 +4,9 @@
 - 👀 My **research interests** are in platforms design and governance, media economics (*content production, advertising*) and in User-Generated Content (UGC).
 - 🌱 My **technical skills**: Python, R and SQL for data analysis. Tableau and PowerPoint for data presentation.  
 
-- 📫 How to reach me: [on LinkedIn](https://www.linkedin.com/in/mrasskazova/)
+- 📫 You can reach me [on LinkedIn](https://www.linkedin.com/in/mrasskazova/)
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I have two cats and I drink too much tea 🍵
+- ⚡ Fun fact: I have two cats and I drink too much tea! 🍵
 
 
 <!--
